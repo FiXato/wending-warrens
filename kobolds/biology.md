@@ -33,7 +33,7 @@ the time, all individuals' reproductive organs will look like a long slit in the
 skin. During arousal, this slit expands and opens revealing, typically, either
 labia (note this is not a cloaca, but is much closer to common analogous
 mammalian organs) or a penis (though of course genetic variation accounts for
-less common arrangements). See below for more about kobold sex and reproduction.
+less common arrangements). See [below](#reproduction) for more about kobold sex and reproduction.
 
 Their skin is covered in scales. Most commonly, these are smooth and shiny like
 a gila monster, though rougher on some individuals, especially as they age.
