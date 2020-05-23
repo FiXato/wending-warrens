@@ -94,5 +94,5 @@ environment is key at this time. Young kobolds use already-sharp hand and foot
 claws to cut their way out of their egg when ready and then spend the next few
 months learning to move and walk and are usually speaking around a year of age.
 Eggs and young are cared for communally generally with a group of trained,
-dedicated kobolds leading the task, rather than the birth parents. See below for
+dedicated kobolds leading the task, rather than the birth parents. See [Sociology](sociology.md#family) for
 more of Kobold family formation.
